@@ -13,3 +13,7 @@ PUBG allows to custom teams name and logo, impacting the killfeed and spectating
 
 ## Credits
 Images were made by [Ben Darlow ](https://github.com/kapowaz) and [Waldir Pimenta](https://github.com/waldyrious). Here's the [GitHub repo](https://github.com/kapowaz/square-flags).
+
+## Preview
+<img width="458" height="277" alt="Screenshot_4" src="https://github.com/user-attachments/assets/99228a49-ac0e-47a2-b0e5-4ba8ce9186f1" />
+<img width="701" height="290" alt="Screenshot_5" src="https://github.com/user-attachments/assets/1ff39cd8-bf2a-402c-8028-07fbcc680bf8" />
